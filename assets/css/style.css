@@ -1,0 +1,19 @@
+
+body {
+    background-image: url("../images/1.jpg");
+}
+panel{
+	width: 100%;
+}
+
+.jumbotron{
+	background-color: #e9c3cf;
+	color: #8f0646;
+	padding-top: 1%;
+    padding-bottom: 2%;
+    margin-top:5%;
+}
+
+.panel-heading{
+	padding-top: 0.30%;
+}
